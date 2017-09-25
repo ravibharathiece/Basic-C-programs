@@ -1,0 +1,7 @@
+#include<stdio.h>  // include the Header file for standard input and output function.
+#include<conio.h>  // inlcude the Header file for the console functions.
+void main()     // declare the main function.
+{
+printf("Hello world! this is my first file in github\n"); // used to display the words what ever i insert with in the double quotes " ".
+getch(); // used to get the each char to console.
+}
